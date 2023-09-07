@@ -9,7 +9,7 @@ date_default_timezone_set('Asia/Jakarta');
 $time=date('H:i');
 
 //silahkan set/ganti WAKTU ALARM berbunyi:
-$alarm= "0:22";
+$alarm= "0:38";
 
 //menunjukan WAKTU AKTUAL
 echo"Saat ini pukul:<br/> $time <br/><br/>
